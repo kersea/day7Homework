@@ -1,0 +1,5 @@
+.column{ width: 33%;
+display: inline-block;}
+.one {background-color: rebeccapurple;}
+.two {background-color: red;}
+.three{background-color: greenyellow;}
